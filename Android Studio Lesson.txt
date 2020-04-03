@@ -1,0 +1,346 @@
+Selamat Datang !
+ 
+Materi Kelas Coding Android (Basic) dari Pixel Ninja sudah bisa kamu pelajari videonya sekarang.
+
+----------------------------------------------------------------
+ 
+
+Sebelum mulai belajar, download kebutuhan kelas disini :
+File Adobe XD & Asset :
+https://goo.gl/zXgJ2H
+
+PNG Screen :
+https://goo.gl/gfGLLw
+
+Font :
+https://goo.gl/961Kog
+
+Materi Bag. 0 :
+
+
+Baca PDF Panduan Kelas :
+
+https://goo.gl/dfcWx4
+
+
+
+Materi Bag. 1 :
+
+
+1a - Kelas Coding Android - Perkenalan
+
+https://youtu.be/32r6CDMZ_FQ
+
+1b  - Ketentuan Selama Belajar
+
+https://youtu.be/yr_XcUWJvQ8
+
+1c - Kolaborasi Designer dan Developer
+
+https://youtu.be/ilsS8-cF83E
+
+
+Materi Bag. 2 :
+
+2a - Pengenalan Materi
+
+https://youtu.be/pZia5TPpvx0
+
+2b - Design First App
+
+https://youtu.be/MdmsT5QO3uc
+
+
+Materi Bag. 3 :
+
+3a - Build Your First App
+
+https://youtu.be/n8VE36iw_iY
+
+3b - Slideschool - Pemilihan Layout
+
+https://youtu.be/uzz7s7fjrCs
+
+
+Materi Bag. 4 :
+
+4a - Warna Dinamis
+
+https://youtu.be/Dp1OVB6ONhY
+
+4b - String Text Dinamis
+
+https://youtu.be/Mk60mX_n7m0
+
+4c - Eksplorasi TextView   ImageView   Button
+
+https://youtu.be/q7vAhTs6U7w
+
+4d - EditText dan Custom Shapes
+
+https://youtu.be/WAmJONHHRLo
+
+
+Materi Bag. 5 :
+
+5 - Dasar Java Pemrograman
+
+https://youtu.be/nj0zg068COE
+
+ 
+
+Materi Bag. 6 :
+
+6a - Mempersiapkan Design Assets
+
+https://youtu.be/f4kFCiYIqoQ
+ 
+
+6b - Cara Install Fonts
+
+https://youtu.be/oSa8oQsssKU
+ 
+
+6c - Design XML Splash Screen
+
+https://youtu.be/CfmMmkMIvRk
+ 
+
+6d - Design XML Get Started Screen
+
+https://youtu.be/bi9dCTpX1yE
+ 
+
+6e - Design XML Sign In Screen
+
+https://youtu.be/zmDSjiP9UN8
+
+
+ 
+
+Materi Bag. 7 :
+
+7a - Design XML Register I Screen
+
+https://youtu.be/fTCV12zsU5E
+ 
+
+7b - Design XML Register II Screen
+
+https://youtu.be/cuKyzazVCGs
+ 
+
+7c - Design XML Success Register
+
+https://youtu.be/ICUk18al8FY
+ 
+
+
+Materi Bag. 8 :
+
+8a - Design XML Home Screen
+
+https://youtu.be/HPEmlf3N24A
+
+8b - Design XML Ticket Details Screen
+
+https://youtu.be/U8VgOIWftmY
+
+8c - Design XML Checkout Screen
+
+https://youtu.be/6HwoMU8kwNA
+ 
+
+8d - Design XML Success Ticket Screen
+
+https://youtu.be/H6qHSMvW4cM
+ 
+
+8e - [Tambahan] Install UI Library
+
+https://youtu.be/e6XjIXtCiBQ
+
+
+
+Materi Bag. 9 :
+
+9a - Design XML My Profile Screen
+
+https://youtu.be/FmqSpHQdvJI
+ 
+
+9b - Design XML My Tickets Screen
+
+https://youtu.be/qgCkgGwW5Mo
+ 
+
+9c - Design XML Edit Profile Screen
+
+https://youtu.be/Q1Puv-7d6PA
+ 
+
+
+Materi Bag. 10 :
+
+10a - UI Animation Splash Screen
+
+https://youtu.be/LS5zuB2EwYE
+ 
+
+10b - UI Animation Get Started Screen
+
+https://youtu.be/yaq8oGzcMUc
+ 
+
+10c - UI Animation Success Sign Up Screen
+
+https://youtu.be/cYpEkPCCWSc
+ 
+
+10d - UI Animation Checkout Screen
+
+https://youtu.be/wIPoJwcCPgI
+
+
+10e - UI Animation Success Buy Ticket Screen
+
+https://youtu.be/Rx3RcyC8Xlc
+
+ 
+
+Materi Bag. 11 :
+
+11a - Install Firebase Database Storage
+
+https://youtu.be/846t0_7TJPE
+ 
+
+11b - Firebase — Mempersiapkan Data Wisata
+
+https://youtu.be/F_OHoCqPZqo
+ 
+
+11c - Firebase — Mempersiapkan Foto Wisata
+
+https://youtu.be/OKhzOvxu0_4
+ 
+
+11d - Firebase — Mempersiapkan Data Users
+
+https://youtu.be/tE4es6z-VTI
+ 
+
+ 
+
+Materi Bag. 12 :
+
+12a - Firebase — User Register I
+
+https://youtu.be/RlMFh0cWzGA
+ 
+
+12b - Firebase — User Register II
+
+https://youtu.be/seTWUOaWZ84
+ 
+
+12c - Firebase — User Login
+
+https://youtu.be/uz4QMdAeRZ4
+
+ 
+
+Materi Bag. 13 :
+
+13a - Firebase — Integrasi Home
+
+https://youtu.be/DRpFk4B930Q
+ 
+
+13b - Firebase — Integrasi Ticket Details
+
+https://youtu.be/5lufj0MWBxI
+
+
+ 
+
+Materi Bag. 14 :
+
+14a - Firebase — Ticket Checkout
+
+https://youtu.be/_9xEL7jI2CY
+ 
+
+14b - Tambahan — Validasi Login dan Sisa Balance
+
+https://youtu.be/MzBMh-2VvBM
+ 
+
+14c - Firebase — My Profile
+
+https://youtu.be/We53FT5RFgg
+ 
+
+14d - Firebase — My Ticket Part I
+
+https://youtu.be/WaD6628GiO0
+ 
+
+14e - Firebase — My Ticket Part II
+
+https://youtu.be/6la1VuF96z4
+ 
+
+14f - Firebase — Memperbaiki Layout Buttons
+
+https://youtu.be/dha0QNiRKB0
+ 
+
+14g - Firebase — MyTicket Details RecyclerView
+
+https://youtu.be/yh5l3UZPxSg
+
+
+ 
+
+Materi Bag. 15 :
+
+15a - Firebase — Edit Profile Part I
+
+https://youtu.be/k3Y1FApX500
+ 
+
+15b - Firebase — Edit Profile Part II
+
+https://youtu.be/tW_g9WDE5k4
+ 
+
+15c - Firebase — Sign Out
+
+https://youtu.be/rfL01iXMb_U
+
+
+ 
+
+Materi Bag. 16 :
+
+16a - GitHub — Membangun Portfolio Pribadi
+
+https://youtu.be/IFb5eSm4m6E
+ 
+
+16b - Design — Membuat Icon App
+
+https://youtu.be/slv7gckgE6o
+ 
+
+ 
+
+16c - Live Testing Production
+
+https://youtu.be/izpLbG4XnE4
+ 
+
+16d - Tugas dan Saran dan Penutup
+
+https://youtu.be/2e0WG3MA2ek
